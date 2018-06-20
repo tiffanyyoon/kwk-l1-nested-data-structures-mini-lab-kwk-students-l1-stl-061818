@@ -17,7 +17,7 @@ The `ingredients` array above is a series of nested arrays. What do I get if I a
 + `ingredients[1][0][0]` 
 
 What code should I write to return each of these?:
-+ `["mayo", "mustard", "tabasco"]`
++ `["mayo", "mustard", "tabasco"]` 
 + `"cheddar"`
 + `"sourdough"`
 
